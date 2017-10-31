@@ -50,3 +50,7 @@ for (var y = 0; y < height; y += 1) {
   console.log()
 }
 ```
+
+# Tip1: 20171031 PM 18:40, WangMingkai and zssure #
+When the value of **ndarray(x, y)** is equal to the **fillValue**, the **fill** function crushed!!!
+
